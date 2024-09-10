@@ -12,7 +12,7 @@ def jejari_tinggi():
 def isipadu():
     (r,h) = jejari_tinggi()
     # Pengiraan isipadu tangki air (V) 
-    V = pi*r**2*h
+    V = pi * r ** 2 * h
 
     # Output
     print(f"Isipadu tangki air = {V:.2f}")
